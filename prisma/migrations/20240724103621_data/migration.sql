@@ -1,0 +1,3 @@
+-- AlterTable
+ALTER TABLE "product" ALTER COLUMN "createdByUserId" SET DATA TYPE TEXT,
+ALTER COLUMN "updatedByUserId" SET DATA TYPE TEXT;
